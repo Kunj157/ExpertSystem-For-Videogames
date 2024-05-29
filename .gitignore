@@ -1,0 +1,10 @@
+# folder
+__pycache__
+.vscode
+build
+dist
+# format
+*.pdf
+# file
+expert.spec
+report.md
